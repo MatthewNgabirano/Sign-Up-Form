@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Faculty+Glyphic&family=Itim&family=Jost:ital,wght@0,100..900;1,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Nanum+Gothic&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    top: 0;
+    left: 0;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+width: 100%;
+height: 100%;
+background-color: rgba(17, 38, 51, 0.932); 
+}
+
+
+.form{
+    width: 30%;
+    height: 90vh;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    border: 4px solid rgba(500, 801, 100, 770);
+    background: #032d49;
+    object-fit: cover;
+    margin: 0 0 0 30%;
+    display: flex;
+    
+
+}
+
+h1{
+    text-align: center;
+    text-decoration: none;
+    justify-items: center;
+    margin: 0 0 0 -6%;
+}
+
+.input{
+    margin:  -70% 0 0 0;
+    color: #fff;
+}
+.email{
+    width:50vh;
+}
+
+button{
+    width:25vh;
+    height: 50px;
+    justify-content: center;
+    text-align: center;
+    margin: 10vh 0 0 -170%;
+    border-radius: 10px;
+    position: relative;
+    background: #4070f4;
+    color: #fff;
+    font-size: 20px;
+}
+button:hover{
+    cursor: pointer;
+    color:#680586;
+
+}
+
+.account{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    text-decoration: none;
+    margin:55% 0 0 -100%;
+    display: flex;
+}
+
+.h3{
+    margin: 0 0 0 -40%;
+    color: #fff;
+    
+}
+
+.login.i a{
+    text-align:center; margin:3px;
+    font-size:20px;
+}
+.login:hover{
+    cursor: pointer;
+    color:#057229;
+
+}
+
+
+.Sign-Up-Form{
+    color: #fff;
+
+}
